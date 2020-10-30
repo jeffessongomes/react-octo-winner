@@ -50,7 +50,7 @@ $ cd react-octo-winner
 $ npm install
 
 # Execute a aplicação em modo de desenvolvimento
-$ npm dev
+$ npm start
 ```
 
 > ⚠️ O servidor iniciará na porta:3000 - Acesse <http://localhost:3000>
