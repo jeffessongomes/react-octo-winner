@@ -1,4 +1,4 @@
-<h1 align="center">Front-end com ReactJS</h1>
+<h1 align="center">Desafio do ReactJS</h1>
 <!-- <img alt="Proffy" src="./github/banner.png"> -->
 <p align="center">
   <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/jeffessongomes/react-octo-winner?style=for-the-badge">
@@ -20,9 +20,7 @@
 
 ## :computer: Sobre
 
-Essa aplicação foi criada apenas para reforçar os principais conceitos do ReactJS.
-
-Projeto desenvolvido durante o **GoStack**, oferecido pela [Rocketseat](https://www.rocketseat.com.br).
+Essa aplicação foi criada para concluir o desafio proposto no **GoStack**, oferecido pela [Rocketseat](https://www.rocketseat.com.br).
 
 ---
 ### :hammer: **Tecnologias**
